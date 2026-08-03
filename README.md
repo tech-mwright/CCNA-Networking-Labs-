@@ -1,2 +1,0 @@
-# LabProjects
-CCNA Labs 
